@@ -1,5 +1,7 @@
 ## 作业1
-运行
+数据集：Wine Reviews  
+将其解压至`data/archive`
+### 运行：
 ```
 python main.py homework1
 ```
