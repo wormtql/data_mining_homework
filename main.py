@@ -1,4 +1,5 @@
 from dm.homework1 import run_homework_1
+from dm.homework2 import run_homework_2
 import sys
 
 
@@ -9,3 +10,5 @@ else:
 
 if arg == "homework1":
     run_homework_1()
+elif arg == "homework2":
+    run_homework_2()
