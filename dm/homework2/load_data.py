@@ -28,6 +28,17 @@ def load_data():
                 new_item["price"] = "expensive"
             else:
                 new_item["price"] = "very expensive"
+
+            points = int(new_item["points"])
+            if points <= 85:
+                new_item["points"] = "D"
+            elif points <= 90:
+                new_item["points"] = "C"
+            elif points <= 95:
+                new_item["points"] = "B"
+            else:
+                new_item["points"] = "A"
+
             result.append(new_item)
 
     return result

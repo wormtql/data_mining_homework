@@ -1,0 +1,114 @@
+[
+    {
+        "itemSet": "{}",
+        "support": 101400
+    },
+    {
+        "itemSet": "{cheap}",
+        "support": 97774
+    },
+    {
+        "itemSet": "{C}",
+        "support": 57698
+    },
+    {
+        "itemSet": "{C,cheap}",
+        "support": 57017
+    },
+    {
+        "itemSet": "{B}",
+        "support": 25940
+    },
+    {
+        "itemSet": "{B,cheap}",
+        "support": 23430
+    },
+    {
+        "itemSet": "{D}",
+        "support": 17050
+    },
+    {
+        "itemSet": "{D,cheap}",
+        "support": 17011
+    },
+    {
+        "itemSet": "{Napa Valley}",
+        "support": 4475
+    },
+    {
+        "itemSet": "{Columbia Valley (WA)}",
+        "support": 4109
+    },
+    {
+        "itemSet": "{Columbia Valley (WA),cheap}",
+        "support": 4085
+    },
+    {
+        "itemSet": "{Napa Valley,cheap}",
+        "support": 4007
+    },
+    {
+        "itemSet": "{expensive}",
+        "support": 3612
+    },
+    {
+        "itemSet": "{Russian River Valley}",
+        "support": 3090
+    },
+    {
+        "itemSet": "{Russian River Valley,cheap}",
+        "support": 3079
+    },
+    {
+        "itemSet": "{California}",
+        "support": 2627
+    },
+    {
+        "itemSet": "{California,cheap}",
+        "support": 2626
+    },
+    {
+        "itemSet": "{C,Columbia Valley (WA)}",
+        "support": 2613
+    },
+    {
+        "itemSet": "{C,Columbia Valley (WA),cheap}",
+        "support": 2612
+    },
+    {
+        "itemSet": "{B,expensive}",
+        "support": 2507
+    },
+    {
+        "itemSet": "{C,Napa Valley}",
+        "support": 2340
+    },
+    {
+        "itemSet": "{Paso Robles}",
+        "support": 2327
+    },
+    {
+        "itemSet": "{Paso Robles,cheap}",
+        "support": 2315
+    },
+    {
+        "itemSet": "{Willamette Valley}",
+        "support": 2296
+    },
+    {
+        "itemSet": "{Mendoza}",
+        "support": 2275
+    },
+    {
+        "itemSet": "{Willamette Valley,cheap}",
+        "support": 2269
+    },
+    {
+        "itemSet": "{C,Napa Valley,cheap}",
+        "support": 2239
+    },
+    {
+        "itemSet": "{Mendoza,cheap}",
+        "support": 2219
+    }
+]

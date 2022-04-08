@@ -1,0 +1,904 @@
+[
+    {
+        "rule": "{California}->{cheap}",
+        "support": 2626,
+        "confidence": 0.9996193376475067,
+        "evaluation": {
+            "lift": 1.0366907443436617,
+            "allconf": 0.026857855871704132,
+            "jaccard": 0.02685758118128356,
+            "cosine": 0.16385247052487517
+        }
+    },
+    {
+        "rule": "{D}->{cheap}",
+        "support": 17011,
+        "confidence": 0.9977126099706745,
+        "evaluation": {
+            "lift": 1.0347133046722687,
+            "allconf": 0.17398285842862113,
+            "jaccard": 0.17391348798217007,
+            "cosine": 0.4166352022728972
+        }
+    },
+    {
+        "rule": "{Russian River Valley}->{cheap}",
+        "support": 3079,
+        "confidence": 0.9964401294498382,
+        "evaluation": {
+            "lift": 1.0333936335448441,
+            "allconf": 0.03149098942459141,
+            "jaccard": 0.0314874469499412,
+            "cosine": 0.17714086366150342
+        }
+    },
+    {
+        "rule": "{Paso Robles}->{cheap}",
+        "support": 2315,
+        "confidence": 0.9948431456811345,
+        "evaluation": {
+            "lift": 1.0317374247966438,
+            "allconf": 0.023677051158794774,
+            "jaccard": 0.02367414558321232,
+            "cosine": 0.1534762263520593
+        }
+    },
+    {
+        "rule": "{Columbia Valley (WA)}->{cheap}",
+        "support": 4085,
+        "confidence": 0.9941591628133366,
+        "evaluation": {
+            "lift": 1.0310280760659514,
+            "allconf": 0.04178002331908279,
+            "jaccard": 0.04176977034295181,
+            "cosine": 0.20380381008514295
+        }
+    },
+    {
+        "rule": "{Willamette Valley}->{cheap}",
+        "support": 2269,
+        "confidence": 0.9882404181184669,
+        "evaluation": {
+            "lift": 1.0248898316240773,
+            "allconf": 0.023206578435985024,
+            "jaccard": 0.02320017177738469,
+            "cosine": 0.1514386964308556
+        }
+    },
+    {
+        "rule": "{C}->{cheap}",
+        "support": 57017,
+        "confidence": 0.9881971645464315,
+        "evaluation": {
+            "lift": 1.0248449739706686,
+            "allconf": 0.5831509399226789,
+            "jaccard": 0.5791173632624042,
+            "cosine": 0.7591232477893018
+        }
+    },
+    {
+        "rule": "{Mendoza}->{cheap}",
+        "support": 2219,
+        "confidence": 0.9753846153846154,
+        "evaluation": {
+            "lift": 1.0115572647125004,
+            "allconf": 0.02269519504162661,
+            "jaccard": 0.022682203822958193,
+            "cosine": 0.1487835477690857
+        }
+    },
+    {
+        "rule": "{B}->{cheap}",
+        "support": 23430,
+        "confidence": 0.9032382420971473,
+        "evaluation": {
+            "lift": 0.9367353053843632,
+            "allconf": 0.23963425859635487,
+            "jaccard": 0.23363647241833196,
+            "cosine": 0.46523846195346397
+        }
+    },
+    {
+        "rule": "{Napa Valley}->{cheap}",
+        "support": 4007,
+        "confidence": 0.8954189944134078,
+        "evaluation": {
+            "lift": 0.928626076804872,
+            "allconf": 0.04098226522388365,
+            "jaccard": 0.040787036094542053,
+            "cosine": 0.19156278008933122
+        }
+    },
+    {
+        "rule": "{expensive}->{B}",
+        "support": 2507,
+        "confidence": 0.6940753045404208,
+        "evaluation": {
+            "lift": 2.7131548142019537,
+            "allconf": 0.0966461063993832,
+            "jaccard": 0.09269735625808836,
+            "cosine": 0.2589974434850619
+        }
+    },
+    {
+        "rule": "{Columbia Valley (WA)}->{C}",
+        "support": 2613,
+        "confidence": 0.63592114869798,
+        "evaluation": {
+            "lift": 1.1175847425903007,
+            "allconf": 0.04528753163021249,
+            "jaccard": 0.04414298746494577,
+            "cosine": 0.16970356253178903
+        }
+    },
+    {
+        "rule": "{Willamette Valley}->{C}",
+        "support": 1343,
+        "confidence": 0.5849303135888502,
+        "evaluation": {
+            "lift": 1.0279720925839615,
+            "allconf": 0.023276370064820275,
+            "jaccard": 0.022898160304172143,
+            "cosine": 0.11668356542900739
+        }
+    },
+    {
+        "rule": "{cheap}->{C}",
+        "support": 57017,
+        "confidence": 0.5831509399226789,
+        "evaluation": {
+            "lift": 1.0248449739706686,
+            "allconf": 0.5831509399226789,
+            "jaccard": 0.5791173632624042,
+            "cosine": 0.7591232477893018
+        }
+    },
+    {
+        "rule": "{Paso Robles}->{C}",
+        "support": 1269,
+        "confidence": 0.5453373442200258,
+        "evaluation": {
+            "lift": 0.9583903550194222,
+            "allconf": 0.02199382994211238,
+            "jaccard": 0.021597794267819458,
+            "cosine": 0.10951738131391953
+        }
+    },
+    {
+        "rule": "{Napa Valley}->{C}",
+        "support": 2340,
+        "confidence": 0.5229050279329609,
+        "evaluation": {
+            "lift": 0.9189672056640134,
+            "allconf": 0.04055599847481716,
+            "jaccard": 0.039108852974111284,
+            "cosine": 0.1456260124954446
+        }
+    },
+    {
+        "rule": "{California}->{D}",
+        "support": 1325,
+        "confidence": 0.5043776170536733,
+        "evaluation": {
+            "lift": 2.9996416638851895,
+            "allconf": 0.07771260997067449,
+            "jaccard": 0.07219921534437664,
+            "cosine": 0.19798106230655077
+        }
+    },
+    {
+        "rule": "{Russian River Valley}->{C}",
+        "support": 1487,
+        "confidence": 0.4812297734627832,
+        "evaluation": {
+            "lift": 0.8457260048723736,
+            "allconf": 0.025772123817116712,
+            "jaccard": 0.025075462471121905,
+            "cosine": 0.11136567382351652
+        }
+    },
+    {
+        "rule": "{Mendoza}->{C}",
+        "support": 1056,
+        "confidence": 0.4641758241758242,
+        "evaluation": {
+            "lift": 0.8157549407506081,
+            "allconf": 0.01830219418350723,
+            "jaccard": 0.01792351952747085,
+            "cosine": 0.0921706898604727
+        }
+    },
+    {
+        "rule": "{California}->{C}",
+        "support": 1183,
+        "confidence": 0.45032356299961934,
+        "evaluation": {
+            "lift": 0.7914106084814275,
+            "allconf": 0.020503310340046453,
+            "jaccard": 0.020002705353217687,
+            "cosine": 0.096089144889611
+        }
+    },
+    {
+        "rule": "{Mendoza}->{D}",
+        "support": 924,
+        "confidence": 0.40615384615384614,
+        "evaluation": {
+            "lift": 2.4154838709677415,
+            "allconf": 0.05419354838709677,
+            "jaccard": 0.05021466224661703,
+            "cosine": 0.14836077013194532
+        }
+    },
+    {
+        "rule": "{Russian River Valley}->{B}",
+        "support": 1198,
+        "confidence": 0.3877022653721683,
+        "evaluation": {
+            "lift": 1.5155362262427858,
+            "allconf": 0.04618350038550501,
+            "jaccard": 0.04304397815464213,
+            "cosine": 0.13381123914782606
+        }
+    },
+    {
+        "rule": "{Napa Valley}->{B}",
+        "support": 1453,
+        "confidence": 0.3246927374301676,
+        "evaluation": {
+            "lift": 1.26923066983111,
+            "allconf": 0.056013878180416345,
+            "jaccard": 0.05016918721082798,
+            "cosine": 0.13486029601212995
+        }
+    },
+    {
+        "rule": "{Willamette Valley}->{B}",
+        "support": 738,
+        "confidence": 0.32142857142857145,
+        "evaluation": {
+            "lift": 1.2564709769798437,
+            "allconf": 0.028450269853508094,
+            "jaccard": 0.02683831551385555,
+            "cosine": 0.09562807953614073
+        }
+    },
+    {
+        "rule": "{Columbia Valley (WA)}->{B}",
+        "support": 1041,
+        "confidence": 0.25334631297152593,
+        "evaluation": {
+            "lift": 0.9903360113844536,
+            "allconf": 0.04013107170393215,
+            "jaccard": 0.03588665195808053,
+            "cosine": 0.10083183550737904
+        }
+    },
+    {
+        "rule": "{cheap}->{B}",
+        "support": 23430,
+        "confidence": 0.23963425859635487,
+        "evaluation": {
+            "lift": 0.9367353053843632,
+            "allconf": 0.23963425859635487,
+            "jaccard": 0.23363647241833196,
+            "cosine": 0.46523846195346397
+        }
+    },
+    {
+        "rule": "{Paso Robles}->{B}",
+        "support": 533,
+        "confidence": 0.22905027932960895,
+        "evaluation": {
+            "lift": 0.8953623101010928,
+            "allconf": 0.020547417116422512,
+            "jaccard": 0.01921828802192255,
+            "cosine": 0.06860314591925479
+        }
+    },
+    {
+        "rule": "{Paso Robles}->{D}",
+        "support": 524,
+        "confidence": 0.2251826385904598,
+        "evaluation": {
+            "lift": 1.3392093579514737,
+            "allconf": 0.030733137829912025,
+            "jaccard": 0.027793985042168356,
+            "cosine": 0.08318995773952448
+        }
+    },
+    {
+        "rule": "{expensive}->{C}",
+        "support": 680,
+        "confidence": 0.18826135105204872,
+        "evaluation": {
+            "lift": 0.33085550619913595,
+            "allconf": 0.011785503830288745,
+            "jaccard": 0.011215569849909287,
+            "cosine": 0.04710366093966852
+        }
+    },
+    {
+        "rule": "{cheap}->{D}",
+        "support": 17011,
+        "confidence": 0.1739828584286211,
+        "evaluation": {
+            "lift": 1.0347133046722687,
+            "allconf": 0.17398285842862113,
+            "jaccard": 0.17391348798217007,
+            "cosine": 0.4166352022728972
+        }
+    },
+    {
+        "rule": "{Napa Valley}->{D}",
+        "support": 629,
+        "confidence": 0.1405586592178771,
+        "evaluation": {
+            "lift": 0.8359324366388703,
+            "allconf": 0.036891495601173024,
+            "jaccard": 0.030101454823889744,
+            "cosine": 0.07200985459118141
+        }
+    },
+    {
+        "rule": "{expensive}->{Napa Valley}",
+        "support": 468,
+        "confidence": 0.12956810631229235,
+        "evaluation": {
+            "lift": 2.9359119508528373,
+            "allconf": 0.10458100558659218,
+            "jaccard": 0.061425383908649434,
+            "cosine": 0.11640602583238557
+        }
+    },
+    {
+        "rule": "{Mendoza}->{B}",
+        "support": 293,
+        "confidence": 0.12879120879120878,
+        "evaluation": {
+            "lift": 0.5034475162462826,
+            "allconf": 0.011295296838858904,
+            "jaccard": 0.010493517656328343,
+            "cosine": 0.03814098757940279
+        }
+    },
+    {
+        "rule": "{Russian River Valley}->{D}",
+        "support": 354,
+        "confidence": 0.1145631067961165,
+        "evaluation": {
+            "lift": 0.6813313213563762,
+            "allconf": 0.020762463343108505,
+            "jaccard": 0.01789143839078136,
+            "cosine": 0.04877101911306544
+        }
+    },
+    {
+        "rule": "{Columbia Valley (WA)}->{D}",
+        "support": 431,
+        "confidence": 0.10489170114383062,
+        "evaluation": {
+            "lift": 0.6238134015240132,
+            "allconf": 0.02527859237536657,
+            "jaccard": 0.020793130065611735,
+            "cosine": 0.051492859279454135
+        }
+    },
+    {
+        "rule": "{Napa Valley}->{expensive}",
+        "support": 468,
+        "confidence": 0.10458100558659218,
+        "evaluation": {
+            "lift": 2.9359119508528373,
+            "allconf": 0.10458100558659218,
+            "jaccard": 0.061425383908649434,
+            "cosine": 0.11640602583238557
+        }
+    },
+    {
+        "rule": "{B}->{expensive}",
+        "support": 2507,
+        "confidence": 0.09664610639938319,
+        "evaluation": {
+            "lift": 2.7131548142019537,
+            "allconf": 0.0966461063993832,
+            "jaccard": 0.09269735625808836,
+            "cosine": 0.2589974434850619
+        }
+    },
+    {
+        "rule": "{Willamette Valley}->{D}",
+        "support": 207,
+        "confidence": 0.0901567944250871,
+        "evaluation": {
+            "lift": 0.5361817568741252,
+            "allconf": 0.01214076246334311,
+            "jaccard": 0.010815612100945714,
+            "cosine": 0.03308431993515114
+        }
+    },
+    {
+        "rule": "{D}->{California}",
+        "support": 1325,
+        "confidence": 0.07771260997067449,
+        "evaluation": {
+            "lift": 2.9996416638851895,
+            "allconf": 0.07771260997067449,
+            "jaccard": 0.07219921534437664,
+            "cosine": 0.19798106230655077
+        }
+    },
+    {
+        "rule": "{B}->{Napa Valley}",
+        "support": 1453,
+        "confidence": 0.056013878180416345,
+        "evaluation": {
+            "lift": 1.26923066983111,
+            "allconf": 0.056013878180416345,
+            "jaccard": 0.05016918721082798,
+            "cosine": 0.13486029601212995
+        }
+    },
+    {
+        "rule": "{D}->{Mendoza}",
+        "support": 924,
+        "confidence": 0.05419354838709677,
+        "evaluation": {
+            "lift": 2.4154838709677415,
+            "allconf": 0.05419354838709677,
+            "jaccard": 0.05021466224661703,
+            "cosine": 0.14836077013194532
+        }
+    },
+    {
+        "rule": "{B}->{Russian River Valley}",
+        "support": 1198,
+        "confidence": 0.04618350038550501,
+        "evaluation": {
+            "lift": 1.5155362262427858,
+            "allconf": 0.04618350038550501,
+            "jaccard": 0.04304397815464213,
+            "cosine": 0.13381123914782606
+        }
+    },
+    {
+        "rule": "{C}->{Columbia Valley (WA)}",
+        "support": 2613,
+        "confidence": 0.045287531630212485,
+        "evaluation": {
+            "lift": 1.1175847425903007,
+            "allconf": 0.04528753163021249,
+            "jaccard": 0.04414298746494577,
+            "cosine": 0.16970356253178903
+        }
+    },
+    {
+        "rule": "{California}->{B}",
+        "support": 117,
+        "confidence": 0.04453749524172059,
+        "evaluation": {
+            "lift": 0.1740979960489772,
+            "allconf": 0.00451040863531226,
+            "jaccard": 0.004112478031634447,
+            "cosine": 0.014173295422499146
+        }
+    },
+    {
+        "rule": "{cheap}->{Columbia Valley (WA)}",
+        "support": 4085,
+        "confidence": 0.04178002331908278,
+        "evaluation": {
+            "lift": 1.0310280760659514,
+            "allconf": 0.04178002331908279,
+            "jaccard": 0.04176977034295181,
+            "cosine": 0.20380381008514295
+        }
+    },
+    {
+        "rule": "{cheap}->{Napa Valley}",
+        "support": 4007,
+        "confidence": 0.04098226522388365,
+        "evaluation": {
+            "lift": 0.928626076804872,
+            "allconf": 0.04098226522388365,
+            "jaccard": 0.040787036094542053,
+            "cosine": 0.19156278008933122
+        }
+    },
+    {
+        "rule": "{C}->{Napa Valley}",
+        "support": 2340,
+        "confidence": 0.040555998474817154,
+        "evaluation": {
+            "lift": 0.9189672056640134,
+            "allconf": 0.04055599847481716,
+            "jaccard": 0.039108852974111284,
+            "cosine": 0.1456260124954446
+        }
+    },
+    {
+        "rule": "{B}->{Columbia Valley (WA)}",
+        "support": 1041,
+        "confidence": 0.04013107170393215,
+        "evaluation": {
+            "lift": 0.9903360113844536,
+            "allconf": 0.04013107170393215,
+            "jaccard": 0.03588665195808053,
+            "cosine": 0.10083183550737904
+        }
+    },
+    {
+        "rule": "{D}->{Napa Valley}",
+        "support": 629,
+        "confidence": 0.03689149560117302,
+        "evaluation": {
+            "lift": 0.8359324366388703,
+            "allconf": 0.036891495601173024,
+            "jaccard": 0.030101454823889744,
+            "cosine": 0.07200985459118141
+        }
+    },
+    {
+        "rule": "{cheap}->{Russian River Valley}",
+        "support": 3079,
+        "confidence": 0.03149098942459141,
+        "evaluation": {
+            "lift": 1.0333936335448441,
+            "allconf": 0.03149098942459141,
+            "jaccard": 0.0314874469499412,
+            "cosine": 0.17714086366150342
+        }
+    },
+    {
+        "rule": "{D}->{Paso Robles}",
+        "support": 524,
+        "confidence": 0.030733137829912025,
+        "evaluation": {
+            "lift": 1.3392093579514737,
+            "allconf": 0.030733137829912025,
+            "jaccard": 0.027793985042168356,
+            "cosine": 0.08318995773952448
+        }
+    },
+    {
+        "rule": "{B}->{Willamette Valley}",
+        "support": 738,
+        "confidence": 0.028450269853508094,
+        "evaluation": {
+            "lift": 1.2564709769798437,
+            "allconf": 0.028450269853508094,
+            "jaccard": 0.02683831551385555,
+            "cosine": 0.09562807953614073
+        }
+    },
+    {
+        "rule": "{cheap}->{California}",
+        "support": 2626,
+        "confidence": 0.026857855871704132,
+        "evaluation": {
+            "lift": 1.0366907443436617,
+            "allconf": 0.026857855871704132,
+            "jaccard": 0.02685758118128356,
+            "cosine": 0.16385247052487517
+        }
+    },
+    {
+        "rule": "{C}->{Russian River Valley}",
+        "support": 1487,
+        "confidence": 0.025772123817116712,
+        "evaluation": {
+            "lift": 0.8457260048723736,
+            "allconf": 0.025772123817116712,
+            "jaccard": 0.025075462471121905,
+            "cosine": 0.11136567382351652
+        }
+    },
+    {
+        "rule": "{D}->{Columbia Valley (WA)}",
+        "support": 431,
+        "confidence": 0.02527859237536657,
+        "evaluation": {
+            "lift": 0.6238134015240132,
+            "allconf": 0.02527859237536657,
+            "jaccard": 0.020793130065611735,
+            "cosine": 0.051492859279454135
+        }
+    },
+    {
+        "rule": "{Mendoza}->{expensive}",
+        "support": 56,
+        "confidence": 0.024615384615384615,
+        "evaluation": {
+            "lift": 0.6910299003322259,
+            "allconf": 0.015503875968992248,
+            "jaccard": 0.009603841536614645,
+            "cosine": 0.019535451620220173
+        }
+    },
+    {
+        "rule": "{cheap}->{Paso Robles}",
+        "support": 2315,
+        "confidence": 0.02367705115879477,
+        "evaluation": {
+            "lift": 1.0317374247966438,
+            "allconf": 0.023677051158794774,
+            "jaccard": 0.02367414558321232,
+            "cosine": 0.1534762263520593
+        }
+    },
+    {
+        "rule": "{C}->{Willamette Valley}",
+        "support": 1343,
+        "confidence": 0.023276370064820272,
+        "evaluation": {
+            "lift": 1.0279720925839615,
+            "allconf": 0.023276370064820275,
+            "jaccard": 0.022898160304172143,
+            "cosine": 0.11668356542900739
+        }
+    },
+    {
+        "rule": "{cheap}->{Willamette Valley}",
+        "support": 2269,
+        "confidence": 0.023206578435985028,
+        "evaluation": {
+            "lift": 1.0248898316240773,
+            "allconf": 0.023206578435985024,
+            "jaccard": 0.02320017177738469,
+            "cosine": 0.1514386964308556
+        }
+    },
+    {
+        "rule": "{cheap}->{Mendoza}",
+        "support": 2219,
+        "confidence": 0.02269519504162661,
+        "evaluation": {
+            "lift": 1.0115572647125004,
+            "allconf": 0.02269519504162661,
+            "jaccard": 0.022682203822958193,
+            "cosine": 0.1487835477690857
+        }
+    },
+    {
+        "rule": "{C}->{Paso Robles}",
+        "support": 1269,
+        "confidence": 0.021993829942112377,
+        "evaluation": {
+            "lift": 0.9583903550194222,
+            "allconf": 0.02199382994211238,
+            "jaccard": 0.021597794267819458,
+            "cosine": 0.10951738131391953
+        }
+    },
+    {
+        "rule": "{D}->{Russian River Valley}",
+        "support": 354,
+        "confidence": 0.020762463343108505,
+        "evaluation": {
+            "lift": 0.6813313213563762,
+            "allconf": 0.020762463343108505,
+            "jaccard": 0.01789143839078136,
+            "cosine": 0.04877101911306544
+        }
+    },
+    {
+        "rule": "{B}->{Paso Robles}",
+        "support": 533,
+        "confidence": 0.020547417116422512,
+        "evaluation": {
+            "lift": 0.8953623101010928,
+            "allconf": 0.020547417116422512,
+            "jaccard": 0.01921828802192255,
+            "cosine": 0.06860314591925479
+        }
+    },
+    {
+        "rule": "{C}->{California}",
+        "support": 1183,
+        "confidence": 0.02050331034004645,
+        "evaluation": {
+            "lift": 0.7914106084814275,
+            "allconf": 0.020503310340046453,
+            "jaccard": 0.020002705353217687,
+            "cosine": 0.096089144889611
+        }
+    },
+    {
+        "rule": "{C}->{Mendoza}",
+        "support": 1056,
+        "confidence": 0.018302194183507228,
+        "evaluation": {
+            "lift": 0.8157549407506081,
+            "allconf": 0.01830219418350723,
+            "jaccard": 0.01792351952747085,
+            "cosine": 0.0921706898604727
+        }
+    },
+    {
+        "rule": "{expensive}->{Mendoza}",
+        "support": 56,
+        "confidence": 0.015503875968992248,
+        "evaluation": {
+            "lift": 0.6910299003322259,
+            "allconf": 0.015503875968992248,
+            "jaccard": 0.009603841536614645,
+            "cosine": 0.019535451620220173
+        }
+    },
+    {
+        "rule": "{D}->{Willamette Valley}",
+        "support": 207,
+        "confidence": 0.012140762463343108,
+        "evaluation": {
+            "lift": 0.5361817568741252,
+            "allconf": 0.01214076246334311,
+            "jaccard": 0.010815612100945714,
+            "cosine": 0.03308431993515114
+        }
+    },
+    {
+        "rule": "{C}->{expensive}",
+        "support": 680,
+        "confidence": 0.011785503830288745,
+        "evaluation": {
+            "lift": 0.33085550619913595,
+            "allconf": 0.011785503830288745,
+            "jaccard": 0.011215569849909287,
+            "cosine": 0.04710366093966852
+        }
+    },
+    {
+        "rule": "{Willamette Valley}->{expensive}",
+        "support": 27,
+        "confidence": 0.011759581881533102,
+        "evaluation": {
+            "lift": 0.33012779700649403,
+            "allconf": 0.007475083056478406,
+            "jaccard": 0.004591055942866859,
+            "cosine": 0.009375705374739467
+        }
+    },
+    {
+        "rule": "{B}->{Mendoza}",
+        "support": 293,
+        "confidence": 0.011295296838858906,
+        "evaluation": {
+            "lift": 0.5034475162462826,
+            "allconf": 0.011295296838858904,
+            "jaccard": 0.010493517656328343,
+            "cosine": 0.03814098757940279
+        }
+    },
+    {
+        "rule": "{expensive}->{D}",
+        "support": 39,
+        "confidence": 0.01079734219269103,
+        "evaluation": {
+            "lift": 0.06421410547442055,
+            "allconf": 0.002287390029325513,
+            "jaccard": 0.001891092469572807,
+            "cosine": 0.004969681365518029
+        }
+    },
+    {
+        "rule": "{expensive}->{Willamette Valley}",
+        "support": 27,
+        "confidence": 0.007475083056478406,
+        "evaluation": {
+            "lift": 0.33012779700649403,
+            "allconf": 0.007475083056478406,
+            "jaccard": 0.004591055942866859,
+            "cosine": 0.009375705374739467
+        }
+    },
+    {
+        "rule": "{expensive}->{Columbia Valley (WA)}",
+        "support": 24,
+        "confidence": 0.006644518272425249,
+        "evaluation": {
+            "lift": 0.1639703462701193,
+            "allconf": 0.0058408371866634215,
+            "jaccard": 0.0031180979602442515,
+            "cosine": 0.006229731086736088
+        }
+    },
+    {
+        "rule": "{Columbia Valley (WA)}->{expensive}",
+        "support": 24,
+        "confidence": 0.0058408371866634215,
+        "evaluation": {
+            "lift": 0.1639703462701193,
+            "allconf": 0.0058408371866634215,
+            "jaccard": 0.0031180979602442515,
+            "cosine": 0.006229731086736088
+        }
+    },
+    {
+        "rule": "{Paso Robles}->{expensive}",
+        "support": 12,
+        "confidence": 0.005156854318865492,
+        "evaluation": {
+            "lift": 0.1447688338684831,
+            "allconf": 0.0033222591362126247,
+            "jaccard": 0.002024633035262359,
+            "cosine": 0.004139131113527139
+        }
+    },
+    {
+        "rule": "{B}->{California}",
+        "support": 117,
+        "confidence": 0.004510408635312259,
+        "evaluation": {
+            "lift": 0.1740979960489772,
+            "allconf": 0.00451040863531226,
+            "jaccard": 0.004112478031634447,
+            "cosine": 0.014173295422499146
+        }
+    },
+    {
+        "rule": "{Russian River Valley}->{expensive}",
+        "support": 11,
+        "confidence": 0.0035598705501618125,
+        "evaluation": {
+            "lift": 0.09993656527862894,
+            "allconf": 0.003045404208194906,
+            "jaccard": 0.0016439994021820357,
+            "cosine": 0.0032926045547699615
+        }
+    },
+    {
+        "rule": "{expensive}->{Paso Robles}",
+        "support": 12,
+        "confidence": 0.0033222591362126247,
+        "evaluation": {
+            "lift": 0.1447688338684831,
+            "allconf": 0.0033222591362126247,
+            "jaccard": 0.002024633035262359,
+            "cosine": 0.004139131113527139
+        }
+    },
+    {
+        "rule": "{expensive}->{Russian River Valley}",
+        "support": 11,
+        "confidence": 0.003045404208194906,
+        "evaluation": {
+            "lift": 0.09993656527862894,
+            "allconf": 0.003045404208194906,
+            "jaccard": 0.0016439994021820357,
+            "cosine": 0.0032926045547699615
+        }
+    },
+    {
+        "rule": "{D}->{expensive}",
+        "support": 39,
+        "confidence": 0.002287390029325513,
+        "evaluation": {
+            "lift": 0.06421410547442055,
+            "allconf": 0.002287390029325513,
+            "jaccard": 0.001891092469572807,
+            "cosine": 0.004969681365518029
+        }
+    },
+    {
+        "rule": "{California}->{expensive}",
+        "support": 1,
+        "confidence": 0.00038066235249333843,
+        "evaluation": {
+            "lift": 0.010686368367337905,
+            "allconf": 0.0002768549280177187,
+            "jaccard": 0.0001603077909586406,
+            "cosine": 0.0003246355621286717
+        }
+    },
+    {
+        "rule": "{expensive}->{California}",
+        "support": 1,
+        "confidence": 0.0002768549280177187,
+        "evaluation": {
+            "lift": 0.010686368367337905,
+            "allconf": 0.0002768549280177187,
+            "jaccard": 0.0001603077909586406,
+            "cosine": 0.0003246355621286717
+        }
+    }
+]

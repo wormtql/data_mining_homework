@@ -3,6 +3,7 @@ from typing import List, Set, Tuple
 
 from .rule import AssociationRule
 from .item_set import ItemSet
+from .evaluation import RuleEvaluation
 
 
 class Transactions:
@@ -66,3 +67,16 @@ class Transactions:
     def calc_confidence_of_association_rule(self, rule: AssociationRule) -> float:
         u = rule.union()
         return self.calc_support_of_item_set(u) / self.calc_support_of_item_set(rule.a)
+
+    def evaluate_rule(self, rule: AssociationRule):
+        u = rule.union()
+        length = len(self.ts)
+        ab = self.calc_support_of_item_set(u) / length
+        a = self.calc_support_of_item_set(rule.a) / length
+        b = self.calc_support_of_item_set(rule.b) / length
+        return {
+            "lift": RuleEvaluation.lift(ab, a, b),
+            "allconf": RuleEvaluation.allconf(ab, a, b),
+            "jaccard": RuleEvaluation.jaccard(ab, a, b),
+            "cosine": RuleEvaluation.cosine(ab, a, b)
+        }

@@ -27,14 +27,19 @@ def get_frequent_set(t: Transactions, support: int) -> Set[ItemSet]:
         return enum_list(names)
 
     result = set()
+    result.add(ItemSet(()))
     tree = FPTree.from_transactions_unprocessed(t, support)
     for header in reversed(tree.headers):
         name = header.name
+        # print("name", name)
         prefix_t = tree.get_prefix(name)
         # print(prefix_t.ts)
 
         prefix_set = get_frequent_set(prefix_t, support)
         for prefix_set_item in prefix_set:
+            # if len(prefix_set_item.li) == 0:
+            #     print("0", name)
             prefix_set_item.insert(name)
-            result.add(prefix_set_item)
+            result.add(ItemSet(prefix_set_item.li))
+        # print(result)
     return result
